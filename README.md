@@ -3,7 +3,7 @@
 
 ## Sobre o projeto
 
-A ideia do projeto é construir uma aplicação para cadastro de ONG's com o objetivo dessas ONG's poderem cadastrar acidentes...
+A ideia do projeto é construir uma aplicação para cadastro de ONG's para elas poderem cadastrar acidentes que aconteceram com animais e as pessoas possam contribuir para a ajuda desse animal.
 
 ## Backend
 
