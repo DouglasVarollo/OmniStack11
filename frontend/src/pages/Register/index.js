@@ -50,7 +50,7 @@ function Register() {
             os casos da sua ONG.
           </p>
 
-          <Link className="back-link" to="/profile">
+          <Link className="back-link" to="/">
             <FiArrowLeft color="#e02041" size={16} /> Não tenho cadastro
           </Link>
         </section>
