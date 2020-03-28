@@ -40,7 +40,7 @@ Para executar o frontend siga as instruções do arquivo [README.md](https://git
 Para executar o mobile siga as instruções do arquivo [README.md](https://github.com/DouglasVarollo/OmniStack11/blob/master/mobile/README.md) que está na pasta mobile.
 
 <p align="center">
-  <img src="./.github/mobile01.jpg" width="250" />
+  <img src="./.github/mobile04.jpg" width="250" />
   <img src="./.github/mobile02.jpg" width="250" />
   <img src="./.github/mobile03.jpg" width="250" />
 </p>
