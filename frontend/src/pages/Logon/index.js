@@ -53,7 +53,7 @@ function Logon() {
         </form>
       </section>
 
-      <img src={heroesImg} alt="Heroes" />
+      <img class="heroes-img" src={heroesImg} alt="Heroes" />
     </div>
   );
 }
